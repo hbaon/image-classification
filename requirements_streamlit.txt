@@ -1,0 +1,19 @@
+# AI Image Classification System - Streamlit Version
+# Optimized for Hugging Face Spaces deployment
+
+# Core ML Libraries
+tensorflow>=2.8.0
+numpy>=1.21.0
+Pillow>=9.0.0
+
+# Web Framework
+streamlit>=1.28.0
+
+# Image Processing
+opencv-python>=4.6.0
+
+# Utilities
+python-dotenv>=0.19.0
+
+# Hugging Face Spaces compatibility
+protobuf>=3.20.0
